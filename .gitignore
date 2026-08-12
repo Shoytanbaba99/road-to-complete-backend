@@ -8,6 +8,7 @@ secrets/
 # OS Files
 .DS_Store
 Thumbs.db
+.obsidian/
 
 # IDEs & Editors
 .idea/
@@ -26,6 +27,8 @@ build/
 *.dylib
 *.test
 *.out
+inspect
+process_anatomy
 
 # Temporary / Log files
 *.tmp

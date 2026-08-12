@@ -521,10 +521,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 1 — Computer fundamentals + shell
 
 ### Day 1  
-- [ ] CPU, RAM, storage, I/O, peripherals  
-- [ ] Binary/decimal/hexadecimal basics  
-- [ ] Learn what an instruction and machine code are conceptually  
-- [ ] Inspect your Linux machine with `lscpu`, `free`, `lsblk`, `lspci`
+- [x] CPU, RAM, storage, I/O, peripherals  
+- [x] Binary/decimal/hexadecimal basics  
+- [x] Learn what an instruction and machine code are conceptually  
+- [x] Inspect your Linux machine with `lscpu`, `free`, `lsblk`, `lspci`
 
 ### Day 2  
 - [ ] Program vs process  

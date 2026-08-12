@@ -1,5 +1,5 @@
 ## Week 1
-Day 1: Today i learned   and then built .
+Day 1: Today i learned computer architecture primitives (CPU, RAM, MMIO, Hex/Binary) and then built custom hex dumper (hexdump.py) to inspect raw memory blocks.
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
