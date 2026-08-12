@@ -1,0 +1,33 @@
+# Environment & Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Binaries & Build Output
+bin/
+dist/
+build/
+*.exe
+*.exe?
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Temporary / Log files
+*.tmp
+tmp/
+scratch/
