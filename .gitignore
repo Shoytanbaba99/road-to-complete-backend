@@ -10,14 +10,9 @@ secrets/
 Thumbs.db
 .obsidian/
 
-# IDEs & Editors
-.idea/
-.vscode/
-*.swp
-*.swo
-
 # Large Generated Test Files
 test_file.txt
+payload.txt
 *.bin
 *.iso
 
@@ -36,6 +31,7 @@ inspect
 process_anatomy
 chunk_counter
 race_condition
+pipeline
 
 # Temporary / Log files
 *.tmp

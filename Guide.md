@@ -541,12 +541,12 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] Observe a multithreaded process
 
 ### Day 4  
-- [ ] Shell fundamentals  
-- [ ] stdin/stdout/stderr  
-- [ ] redirection  
-- [ ] pipes  
-- [ ] exit status  
-- [ ] `tee`, `xargs`
+- [x] Shell fundamentals  
+- [x] stdin/stdout/stderr  
+- [x] redirection  
+- [x] pipes  
+- [x] exit status  
+- [x] `tee`, `xargs`
 
 ### Day 5  
 - [ ] Filesystem hierarchy  
