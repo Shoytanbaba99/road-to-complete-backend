@@ -527,11 +527,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] Inspect your Linux machine with `lscpu`, `free`, `lsblk`, `lspci`
 
 ### Day 2  
-- [ ] Program vs process  
-- [ ] Executable vs source code  
-- [ ] Process address space  
-- [ ] PID/PPID  
-- [ ] Run and inspect processes with `ps`, `top`/`htop`
+- [x] Program vs process  
+- [x] Executable vs source code  
+- [x] Process address space  
+- [x] PID/PPID  
+- [x] Run and inspect processes with `ps`, `top`/`htop`
 
 ### Day 3  
 - [ ] Thread concept  

@@ -1,6 +1,6 @@
 ## Week 1
 Day 1: Today i learned computer architecture primitives (CPU, RAM, MMIO, Hex/Binary) and then built custom hex dumper (hexdump.py) to inspect raw memory blocks.
-Day 2: Today i learned   and then built .
+Day 2: Today i learned ELF binary headers, PID/PPID process hierarchies, and Virtual Memory segment maps (/proc/[pid]/maps); and then built custom /proc process inspector (ps.py).
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .
