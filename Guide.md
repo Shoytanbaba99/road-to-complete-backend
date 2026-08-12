@@ -534,11 +534,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] Run and inspect processes with `ps`, `top`/`htop`
 
 ### Day 3  
-- [ ] Thread concept  
-- [ ] Process vs thread  
-- [ ] Context switching concept  
-- [ ] Scheduling concept  
-- [ ] Observe a multithreaded process
+- [x] Thread concept  
+- [x] Process vs thread  
+- [x] Context switching concept  
+- [x] Scheduling concept  
+- [x] Observe a multithreaded process
 
 ### Day 4  
 - [ ] Shell fundamentals  

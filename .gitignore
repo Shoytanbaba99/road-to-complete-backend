@@ -16,6 +16,11 @@ Thumbs.db
 *.swp
 *.swo
 
+# Large Generated Test Files
+test_file.txt
+*.bin
+*.iso
+
 # Binaries & Build Output
 bin/
 dist/
@@ -29,6 +34,8 @@ build/
 *.out
 inspect
 process_anatomy
+chunk_counter
+race_condition
 
 # Temporary / Log files
 *.tmp
