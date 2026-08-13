@@ -8,7 +8,7 @@ Day 6: Today i learned Environment Variables, PATH resolution mechanics, Shebang
 Day 7: Today i learned   and then built .
 
 ## Week 2
-Day 1: Today i learned   and then built .
+Day 1: Today i learned Stack vs Heap segment growth, memory lifecycle, and pointers; and then built C dynamic linked list capstone (dynamic_linked_list.c).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

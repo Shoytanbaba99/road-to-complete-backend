@@ -574,9 +574,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 2 — Memory, files, syscalls, time
 
 ### Day 1  
-- [ ] Stack vs heap concept  
-- [ ] dynamic allocation concept  
-- [ ] pointers/references concept
+- [x] Stack vs heap concept  
+- [x] dynamic allocation concept  
+- [x] pointers/references concept
 
 ### Day 2  
 - [ ] Virtual memory  

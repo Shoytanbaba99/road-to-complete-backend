@@ -35,6 +35,8 @@ chunk_counter
 race_condition
 pipeline
 mini_stat
+dynamic_linked_list
+memory_anatomy
 
 # Temporary / Log files
 *.tmp
