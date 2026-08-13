@@ -37,6 +37,8 @@ pipeline
 mini_stat
 dynamic_linked_list
 memory_anatomy
+mini_malloc
+virtual_memory
 
 # Temporary / Log files
 *.tmp

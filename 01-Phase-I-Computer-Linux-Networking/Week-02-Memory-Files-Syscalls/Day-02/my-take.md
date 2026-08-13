@@ -1,14 +1,1 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Every process gets its own virtual address space containing a huge range of virtual addresses. These addresses are not actual physical RAM addresses. The MMU translates virtual addresses into physical addresses before accessing RAM. Mapping every individual byte from virtual to physical memory would be expensive, so virtual and physical memory are divided into fixed-size chunks called pages, typically 4 KB in size. Each process has its own page table that stores these mappings. When a process accesses a virtual address whose corresponding page is not currently mapped to physical memory, a page fault occurs. The operating system then allocates a physical page and maps it to the required virtual page. This is called demand paging.

@@ -579,11 +579,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] pointers/references concept
 
 ### Day 2  
-- [ ] Virtual memory  
-- [ ] virtual addresses  
-- [ ] pages  
-- [ ] page faults  
-- [ ] why every process thinks it has its own memory
+- [x] Virtual memory  
+- [x] virtual addresses  
+- [x] pages  
+- [x] page faults  
+- [x] why every process thinks it has its own memory
 
 ### Day 3  
 - [ ] File descriptors  
