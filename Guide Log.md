@@ -3,7 +3,7 @@ Day 1: Today i learned computer architecture primitives (CPU, RAM, MMIO, Hex/Bin
 Day 2: Today i learned ELF binary headers, PID/PPID process hierarchies, and Virtual Memory segment maps (/proc/[pid]/maps); and then built custom /proc process inspector (ps.py).
 Day 3: Today i learned thread memory stacks vs shared heaps, mutex lock synchronization, and SIMD vectorization; and then built custom multithreaded chunk line counter (chunk_counter.c).
 Day 4: Today i learned Linux standard streams (STDIN 0, STDOUT 1, STDERR 2), system call redirection (openat, dup2), and kernel ring buffer pipes (pipe); and then built C pipeline capstone (pipeline.c).
-Day 5: Today i learned   and then built .
+Day 5: Today i learned Linux Filesystem Hierarchy (FHS), Inodes vs Dentries, Octal Permissions, and Hard vs Soft Links; and then built C inode inspector capstone (mini_stat.c).
 Day 6: Today i learned   and then built .
 Day 7: Today i learned   and then built .
 

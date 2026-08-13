@@ -549,11 +549,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] `tee`, `xargs`
 
 ### Day 5  
-- [ ] Filesystem hierarchy  
-- [ ] permissions  
-- [ ] owner/group  
-- [ ] chmod/chown  
-- [ ] symbolic vs hard links
+- [x] Filesystem hierarchy  
+- [x] permissions  
+- [x] owner/group  
+- [x] chmod/chown  
+- [x] symbolic vs hard links
 
 ### Day 6  
 - [ ] Environment variables  

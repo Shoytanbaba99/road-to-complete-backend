@@ -32,6 +32,7 @@ process_anatomy
 chunk_counter
 race_condition
 pipeline
+mini_stat
 
 # Temporary / Log files
 *.tmp
