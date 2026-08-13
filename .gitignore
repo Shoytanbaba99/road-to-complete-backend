@@ -10,9 +10,11 @@ secrets/
 Thumbs.db
 .obsidian/
 
-# Large Generated Test Files
+# Large Generated Test & Log Files
 test_file.txt
 payload.txt
+my_logs.txt
+*.log
 *.bin
 *.iso
 

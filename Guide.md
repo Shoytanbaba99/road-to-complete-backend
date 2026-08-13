@@ -563,9 +563,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] write a Bash script
 
 ### Day 7 — Review  
-- [ ] Explain program → process → thread  
-- [ ] Build a CLI script combining pipes, files and environment variables  
-- [ ] Write a literature note: “What the OS is doing for my programs”
+- [x] Explain program → process → thread  
+- [x] Build a CLI script combining pipes, files and environment variables  
+- [x] Write a literature note: “What the OS is doing for my programs”
 
 **Deliverable:** a shell toolbox + 1-page OS mental model.
 
