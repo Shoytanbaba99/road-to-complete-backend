@@ -556,11 +556,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] symbolic vs hard links
 
 ### Day 6  
-- [ ] Environment variables  
-- [ ] shell startup files  
-- [ ] PATH  
-- [ ] processes inherit environment  
-- [ ] write a Bash script
+- [x] Environment variables  
+- [x] shell startup files  
+- [x] PATH  
+- [x] processes inherit environment  
+- [x] write a Bash script
 
 ### Day 7 — Review  
 - [ ] Explain program → process → thread  
