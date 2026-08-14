@@ -39,6 +39,8 @@ dynamic_linked_list
 memory_anatomy
 mini_malloc
 virtual_memory
+fd_manipulator
+pipeline_engine
 
 # Temporary / Log files
 *.tmp

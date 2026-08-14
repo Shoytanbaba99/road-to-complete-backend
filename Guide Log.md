@@ -10,7 +10,7 @@ Day 7: Today i learned   and then built .
 ## Week 2
 Day 1: Today i learned Stack vs Heap segment growth, memory lifecycle, and pointers; and then built C dynamic linked list capstone (dynamic_linked_list.c).
 Day 2: Today i learned Virtual Address Spaces, MMU 4 KB Page Tables, Page Faults, and Demand Paging; and studied custom allocator memory management (mini_malloc.c).
-Day 3: Today i learned   and then built .
+Day 3: Today i learned File Descriptors, standard streams (STDIN 0, STDOUT 1, STDERR 2), and dup2 redirection; and then built C multi-stage pipeline engine (pipeline_engine.c).
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .
 Day 6: Today i learned   and then built .

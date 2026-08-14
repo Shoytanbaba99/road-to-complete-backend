@@ -1,0 +1,10 @@
+[ERROR] 10: Kernel panic - not syncing VFS.
+[ERROR] 09: Configuration file syntax error on line 42.
+[ERROR] 08: Out of memory killer invoked.
+[ERROR] 07: Corrupted packet received from client.
+[ERROR] 06: Database connection lost.
+[ERROR] 05: Segmentation fault in worker thread 4.
+[ERROR] 04: Null pointer dereference in module auth.
+[ERROR] 03: SSL Handshake timeout with remote peer.
+[ERROR] 02: Disk quota exceeded on /dev/sda1.
+[ERROR] 01: Failed to bind socket to port 80.

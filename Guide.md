@@ -586,9 +586,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] why every process thinks it has its own memory
 
 ### Day 3  
-- [ ] File descriptors  
-- [ ] stdin/stdout/stderr as descriptors  
-- [ ] files/sockets/pipes as OS resources
+- [x] File descriptors  
+- [x] stdin/stdout/stderr as descriptors  
+- [x] files/sockets/pipes as OS resources
 
 ### Day 4  
 - [ ] System call concept  

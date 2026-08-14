@@ -1,0 +1,52 @@
+cat << 'EOF' > input.txt
+[INFO] System initialized successfully.
+[INFO] Loading kernel modules.
+[ERROR] 01: Failed to bind socket to port 80.
+[INFO] Retrying network configuration.
+[DEBUG] Memory page allocated at 0x7fff5fbff800.
+[ERROR] 02: Disk quota exceeded on /dev/sda1.
+[INFO] User logged in: admin.
+[DEBUG] Cache hit ratio: 87%.
+[ERROR] 03: SSL Handshake timeout with remote peer.
+[INFO] Syncing database records.
+[INFO] Cron task started: logrotate.
+[ERROR] 04: Null pointer dereference in module auth.
+[DEBUG] Thread pool resized to 8 workers.
+[INFO] Worker 3 completed task.
+[ERROR] 05: Segmentation fault in worker thread 4.
+[INFO] Garbage collection cycle finished.
+[DEBUG] I/O throughput: 450 MB/s.
+[ERROR] 06: Database connection lost.
+[INFO] Re-establishing database pool.
+[DEBUG] Routing table updated.
+[ERROR] 07: Corrupted packet received from client.
+[INFO] Health check passed.
+[DEBUG] Process state: RUNNING.
+[ERROR] 08: Out of memory killer invoked.
+[INFO] Cleaning temporary directory /tmp.
+[DEBUG] Virtual memory mapped: 512MB.
+[ERROR] 09: Configuration file syntax error on line 42.
+[INFO] Backup snapshot completed.
+[DEBUG] TCP window size updated.
+[ERROR] 10: Kernel panic - not syncing VFS.
+[INFO] Watchdog timer reset.
+[DEBUG] File descriptor count: 12.
+[INFO] Service status: ACTIVE.
+[DEBUG] Core temperature normal: 42C.
+[INFO] Authenticating user: guest.
+[DEBUG] Inode table lookup cached.
+[INFO] Packet filtered by iptables.
+[DEBUG] CPU idle: 94%.
+[INFO] Signal SIGUSR1 caught.
+[DEBUG] Buffer pool flushed.
+[INFO] Daemon status OK.
+[DEBUG] Swapping inactive pages to disk.
+[INFO] System clock synchronized.
+[DEBUG] Read boundary verified.
+[INFO] Pipeline test completed.
+[DEBUG] Stack frame unwound.
+[INFO] Terminating test stream.
+[DEBUG] Flushing audit buffer.
+[INFO] Operation complete.
+[DEBUG] Final exit code: 0.
+EOF
