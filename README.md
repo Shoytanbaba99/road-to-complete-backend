@@ -1,21 +1,19 @@
 # Road to Complete Backend
 
-> **North Star:** Become a strong, backend-heavy full-stack software engineer with real systems, Linux, networking, database, infrastructure, security, concurrency, observability, and distributed-systems understanding.
+A hands-on, zero-fluff engineering repository tracking a 52-week curriculum from computer primitives and Linux kernel internals to distributed systems and production backend architecture.
 
 ---
 
-## Why I'm Pivoting
+## 📌 Context & Motivation
 
-Check out [this blog post](https://hashnode.com/edit/cmspmjg1900010akwccpqdq6e) on why I pivoted to this roadmap.
+Background and rationale for this roadmap: [Hashnode Pivot Post](https://hashnode.com/edit/cmspmjg1900010akwccpqdq6e).
 
 ---
 
-## Repository Architecture & Obsidian Integration
-
-This repository houses all code labs, shell experiments, benchmarks, terminal logs, and hands-on projects. It works hand-in-hand with my Obsidian Vault (`Engineers-Playbook`).
+## 📁 Repository Structure
 
 ```text
-Road to Complete Backend/  (GitHub Code Workspace)
+Road to Complete Backend/
 ├── 01-Phase-I-Computer-Linux-Networking/
 │   ├── Week-01-Computer-Fundamentals-Shell/
 │   ├── Week-02-Memory-Files-Syscalls/
@@ -31,39 +29,23 @@ Road to Complete Backend/  (GitHub Code Workspace)
 ├── 07-Phase-VII-Realtime-Observability/
 ├── 08-Phase-VIII-System-Design-Distributed-Systems/
 ├── 09-Phase-IX-Rust-Systems-Paradigm/
-├── Projects/
 ├── Engineering Materials.md         # Reading list & reference library
-├── Guide.md                         # The 52-Week Master Curriculum
-├── Guide Log.md                     # Daily tracking journal
-└── README.md
+├── Guide.md                         # 52-Week Master Curriculum & Checklist
+└── Guide Log.md                     # Daily tracking journal
 ```
 
 ---
 
-## The Two-Pillar System: Code Workspace vs. Obsidian Vault
+## ⚙️ Daily Workflow
 
-| Pillar | Location | Primary Purpose | What Lives Here |
-|---|---|---|---|
-| **Code Workspace** | `Road to Complete Backend/` | **Execution & Evidence** | Bash scripts, Go/Rust code, `strace` logs, SQL benchmarks, Dockerfiles, Git commits. |
-| **Obsidian Vault** | `Engineers-Playbook/` | **Theory & Synthesis** | Literature notes, atomic permanent notes, Mermaid diagrams, mental models, personal explanations. |
-
----
-
-## Daily 5-Step Learning Ritual
-
-For each day (e.g., Week 1, Day 1):
-
-1. **Study & Unpack (AI Pairing):** Take the daily topic from [`Guide.md`](file:///mnt/Shared/Projects/Github/Road%20to%20Complete%20Backend/Guide.md) and explore the concepts, mechanisms, and edge cases with Gemini.
-2. **Predict & Draw (Obsidian):** Open `Engineers-Playbook/02 Permanent/`, draw the architecture or data flow using Mermaid/Excalidraw, and write the concept in your own words.
-3. **Build & Lab (`Road to Complete Backend`):** Go to the matching Phase/Week directory (e.g., `01-Phase-I-.../Week-01-...`), create a day lab folder, and write code, terminal commands, or benchmarks to prove the concept empirically.
-4. **Break & Observe:** Deliberately induce failures (race conditions, memory leaks, invalid inputs, network timeouts) and inspect logs, socket states, or stack traces.
-5. **Log & Lock:** Open [`Guide Log.md`](file:///mnt/Shared/Projects/Github/Road%20to%20Complete%20Backend/Guide%20Log.md) and fill out the daily 1-line log:
-   `Day X: Today I learned __; I proved it by __; I broke __; the failure taught me __; tomorrow I will __.`
+For each day in the curriculum:
+1. **Study & Implement:** Unpack concepts in [`Guide.md`](file:///mnt/Shared/Projects/Github/Road%20to%20Complete%20Backend/Guide.md) and build real code (C, Python, Bash, Go, SQL) in the corresponding day folder.
+2. **Personal Synthesis:** Write raw, unvarnished takeaways and mental models in `my-take.md`.
+3. **Log Progress:** Record daily entries in [`Guide Log.md`](file:///mnt/Shared/Projects/Github/Road%20to%20Complete%20Backend/Guide%20Log.md).
 
 ---
 
-## Core Rules
-- **Rule 1:** One Main Road (No derailment by trendy frameworks).
-- **Rule 2:** AI is an accelerator, understanding is mandatory.
-- **Rule 3:** Build before collecting notes.
-- **Rule 4:** Learn the abstraction AND the underlying mechanism.
+## 🎯 Engineering Principles
+- **No Framework Shortcuts:** Master the OS, memory, syscalls, and network protocols before touching high-level abstractions.
+- **Empirical Proof:** Verify everything using `strace`, `lsof`, `/proc`, binary inspection, and benchmark logs.
+- **Mechanism Over Memorization:** Focus on core system mechanisms (inodes, virtual memory pages, file descriptors, packet flows) rather than syntax flags.
