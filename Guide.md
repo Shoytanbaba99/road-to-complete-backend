@@ -591,10 +591,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] files/sockets/pipes as OS resources
 
 ### Day 4  
-- [ ] System call concept  
-- [ ] user mode vs kernel mode  
-- [ ] `strace`  
-- [ ] trace a simple command
+- [x] System call concept  
+- [x] user mode vs kernel mode  
+- [x] `strace`  
+- [x] trace a simple command
 
 ### Day 5  
 - [ ] open/read/write/close concept  
