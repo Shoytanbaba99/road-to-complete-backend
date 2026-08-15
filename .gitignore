@@ -45,6 +45,8 @@ fd_manipulator
 pipeline_engine
 my_cp
 raw_syscall
+shred_lite
+io_anatomy
 
 # Temporary / Log files
 *.tmp

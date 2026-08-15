@@ -597,9 +597,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] trace a simple command
 
 ### Day 5  
-- [ ] open/read/write/close concept  
-- [ ] buffering  
-- [ ] filesystem metadata
+- [x] open/read/write/close concept  
+- [x] buffering  
+- [x] filesystem metadata
 
 ### Day 6  
 - [ ] wall clock vs monotonic clock  
