@@ -52,6 +52,7 @@ resilient_wrapper
 clock_profiler
 mini_strace
 investigation_report
+my_sniffer
 
 # Temporary / Log files
 *.tmp

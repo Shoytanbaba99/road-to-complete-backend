@@ -17,7 +17,7 @@ Day 6: Today i learned Monotonic Clocks (CLOCK_MONOTONIC) vs Wall-Clock Time (CL
 Day 7: Today i learned ptrace system call interception, CPU register inspection, and full binary startup; and then built C syscall interceptor capstone (mini_strace.c).
 
 ## Week 3
-Day 1: Today i learned   and then built .
+Day 1: Today i learned 4-layer TCP/IP stack vs OSI model, Layer 2 Ethernet frames, MAC addresses, and ARP broadcast resolution; and then built C raw ethernet frame sniffer (my_sniffer.c).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

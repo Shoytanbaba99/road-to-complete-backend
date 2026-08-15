@@ -609,6 +609,7 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ### Day 7  
 - [x] Rebuild mental model from scratch without notes  
 - [x] Use `strace` to explain how a simple program starts and reads a file
+- [x] CPU Traps, Binary Setup.
 
 **Deliverable:** syscall/process/filesystem investigation report.
 
@@ -617,11 +618,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 3 — Networking fundamentals
 
 ### Day 1  
-- [ ] Network layers  
-- [ ] Ethernet  
-- [ ] MAC addresses  
-- [ ] frames  
-- [ ] ARP concept
+- [x] Network layers  
+- [x] Ethernet  
+- [x] MAC addresses  
+- [x] frames  
+- [x] ARP concept
 
 ### Day 2  
 - [ ] IP addresses  
