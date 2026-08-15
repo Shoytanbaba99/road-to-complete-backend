@@ -625,11 +625,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] ARP concept
 
 ### Day 2  
-- [ ] IP addresses  
-- [ ] IPv4  
-- [ ] subnet masks/CIDR  
-- [ ] private vs public IPs  
-- [ ] default gateway
+- [x] IP addresses  
+- [x] IPv4  
+- [x] subnet masks/CIDR  
+- [x] private vs public IPs  
+- [x] default gateway
 
 ### Day 3  
 - [ ] Routing  

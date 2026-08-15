@@ -53,6 +53,7 @@ clock_profiler
 mini_strace
 investigation_report
 my_sniffer
+router_math
 
 # Temporary / Log files
 *.tmp

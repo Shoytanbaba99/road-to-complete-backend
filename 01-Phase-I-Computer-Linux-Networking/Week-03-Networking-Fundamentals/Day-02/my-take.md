@@ -1,14 +1,1 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Previously, at the data-link layer, the host uses ARP to discover the MAC address needed for the next hop. First, the OS uses the destination IP address and its routing table (using the subnet/prefix) to determine whether the destination is directly reachable on a local network or must be sent to a router. If the destination is on the same network, the OS sends an ARP request to discover the destination host's MAC address. If the destination is on a different network, the OS does not ARP for the destination IP; instead, it sends an ARP request to discover the default gateway's MAC address (assuming the default gateway is the selected next hop). The resulting Ethernet frame has the gateway's MAC address as its Layer-2 destination, while the IP packet inside still has the ultimate destination IP, such as Google's 8.8.8.8. The router receives the frame, examines the destination IP, consults its routing table to determine the next hop, and creates a new Layer-2 frame for that next link. This process repeats from my PC → home router → ISP network → upstream provider → other networks until the packet reaches its destination. The subnet mask/prefix is used to determine the network and host portions of an IP address; a bitwise AND between an IP address and its subnet mask produces the network address. Bits corresponding to 1 in the mask represent the network portion, while bits corresponding to 0 represent the host portion.

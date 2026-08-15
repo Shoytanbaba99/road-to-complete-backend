@@ -18,7 +18,7 @@ Day 7: Today i learned ptrace system call interception, CPU register inspection,
 
 ## Week 3
 Day 1: Today i learned 4-layer TCP/IP stack vs OSI model, Layer 2 Ethernet frames, MAC addresses, and ARP broadcast resolution; and then built C raw ethernet frame sniffer (my_sniffer.c).
-Day 2: Today i learned   and then built .
+Day 2: Today i learned IPv4 structure, CIDR notation (/24), bitwise subnet mask math, and default gateway routing rules; and then built C kernel route resolution engine (router_math.c).
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .
