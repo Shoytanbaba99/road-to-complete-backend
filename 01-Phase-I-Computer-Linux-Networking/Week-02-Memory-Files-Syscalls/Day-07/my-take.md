@@ -1,14 +1,7 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
 ## 🧠 Core Mental Model
+When a program runs, the kernel allocates a target control block in memory for the program. it has a space called virtual address space where the program think it has the entire cpu to it.  MMU assigns the virtual address to physical address. insdie this virtual address space, you got stack which hold the local variables, heap which hold the dynamic memory allocation and text segment which hold the code of the program. In the entire os syste. now, the program is blind and cannot access any file nor resources, the kernel is the only one allowed to access and read them. now, when we run a program, it gets file descriptor which is a number that the kernel uses to communicate with the program. the kernel has a table called file descriptor table which maps the file descriptor to the actual file in the file system, which is called open file descriptor table, which also in itself maps to the inode table. To access io peripheral or read or store data, the program makes sys calls which is a way to ask the kernel to do something on behalf of the program. The kernel then checks if the program has permission to access the file or resource, and if it does, it performs the requested operation and returns the result to the program. 
 
+cpu has 4 ring of privilege to it, but windows and linux uses two, the 0th ring and 3rd ring, 0th ring is the kernel mode and 3rd ring is the user mode. when a program runs, it runs in user mode, and when it makes a sys call, it switches to kernel mode to perform the operation. 
 
-## 💡 Key Takeaways
+Most of time, we use buffer to read and write data, buffer is a temporary storage area in memory that holds data while it is being transferred between two locations, because of the expensive cost of switching between user mode and kernel mode. 
 
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore

@@ -16,6 +16,7 @@ payload.txt
 my_logs.txt
 source.txt
 dest.txt
+target.txt
 *.log
 *.bin
 *.iso
@@ -49,6 +50,8 @@ shred_lite
 io_anatomy
 resilient_wrapper
 clock_profiler
+mini_strace
+investigation_report
 
 # Temporary / Log files
 *.tmp

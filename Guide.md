@@ -607,8 +607,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] experiment with timestamps and sleep/timing
 
 ### Day 7  
-- [ ] Rebuild mental model from scratch without notes  
-- [ ] Use `strace` to explain how a simple program starts and reads a file
+- [x] Rebuild mental model from scratch without notes  
+- [x] Use `strace` to explain how a simple program starts and reads a file
 
 **Deliverable:** syscall/process/filesystem investigation report.
 
