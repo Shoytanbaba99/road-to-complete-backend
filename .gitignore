@@ -47,6 +47,8 @@ my_cp
 raw_syscall
 shred_lite
 io_anatomy
+resilient_wrapper
+clock_profiler
 
 # Temporary / Log files
 *.tmp

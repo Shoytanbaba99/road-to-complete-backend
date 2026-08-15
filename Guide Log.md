@@ -13,7 +13,7 @@ Day 2: Today i learned Virtual Address Spaces, MMU 4 KB Page Tables, Page Faults
 Day 3: Today i learned File Descriptors, standard streams (STDIN 0, STDOUT 1, STDERR 2), and dup2 redirection; and then built C multi-stage pipeline engine (pipeline_engine.c).
 Day 4: Today i learned User Mode (Ring 3) vs Kernel Mode (Ring 0), syscall context switches, and strace; and then built unbuffered C file copier capstone (my_cp.c).
 Day 5: Today i learned 3-tier I/O buffering (stdio vs Page Cache), fsync platter flushing, and fstat metadata; and then built C secure file shredder capstone (shred_lite.c).
-Day 6: Today i learned   and then built .
+Day 6: Today i learned Monotonic Clocks (CLOCK_MONOTONIC) vs Wall-Clock Time (CLOCK_REALTIME), NTP skew risks, and timeouts; and then built C process timeout wrapper capstone (resilient_wrapper.c).
 Day 7: Today i learned   and then built .
 
 ## Week 3

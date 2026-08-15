@@ -602,9 +602,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] filesystem metadata
 
 ### Day 6  
-- [ ] wall clock vs monotonic clock  
-- [ ] timeouts and why wall time is dangerous for durations  
-- [ ] experiment with timestamps and sleep/timing
+- [x] wall clock vs monotonic clock  
+- [x] timeouts and why wall time is dangerous for durations  
+- [x] experiment with timestamps and sleep/timing
 
 ### Day 7  
 - [ ] Rebuild mental model from scratch without notes  
