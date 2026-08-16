@@ -17,6 +17,8 @@ my_logs.txt
 source.txt
 dest.txt
 target.txt
+test_input.bin
+received_file.txt
 *.log
 *.bin
 *.iso
@@ -57,6 +59,10 @@ router_math
 knocker
 server
 client
+udp_server
+udp_client
+rudp_server
+rudp_client
 
 # Temporary / Log files
 *.tmp

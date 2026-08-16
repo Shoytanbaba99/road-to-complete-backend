@@ -1,4 +1,4 @@
-# The One-Year Software Engineering Roadmap
+aku# The One-Year Software Engineering Roadmap
 
 ## North Star
 
@@ -639,10 +639,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] client/server
 
 ### Day 4  
-- [ ] UDP  
-- [ ] datagrams  
-- [ ] connectionless communication  
-- [ ] packet loss/reordering concept
+- [x] UDP  
+- [x] datagrams  
+- [x] connectionless communication  
+- [x] packet loss/reordering concept
 
 ### Day 5  
 - [ ] TCP  
