@@ -632,11 +632,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] default gateway
 
 ### Day 3  
-- [ ] Routing  
-- [ ] NAT concept  
-- [ ] ports  
-- [ ] sockets  
-- [ ] client/server
+- [x] Routing  
+- [x] NAT concept  
+- [x] ports  
+- [x] sockets  
+- [x] client/server
 
 ### Day 4  
 - [ ] UDP  
