@@ -63,6 +63,7 @@ udp_server
 udp_client
 rudp_server
 rudp_client
+syn_scan
 
 # Temporary / Log files
 *.tmp

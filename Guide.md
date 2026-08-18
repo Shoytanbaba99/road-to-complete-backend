@@ -645,11 +645,11 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] packet loss/reordering concept
 
 ### Day 5  
-- [ ] TCP  
-- [ ] three-way handshake  
-- [ ] sequence numbers  
-- [ ] acknowledgements  
-- [ ] retransmission
+- [x] TCP  
+- [x] three-way handshake  
+- [x] sequence numbers  
+- [x] acknowledgements  
+- [x] retransmission
 
 ### Day 6  
 - [ ] TCP flow/congestion-control concepts  

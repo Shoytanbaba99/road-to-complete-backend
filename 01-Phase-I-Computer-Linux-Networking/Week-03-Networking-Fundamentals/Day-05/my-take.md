@@ -1,14 +1,3 @@
 # My Take & Synthesis
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+The TCP connection is a reliable connection oriented protocol that ensures the data is delivered in correct order and without errors. It uses the three way handshake to establish a connection between the client and server. The three-way handshake involves three steps: SYN, SYN-ACK, and ACK. TCP has an ACK flag and sequence number assigned to each packet to ensure that the data is delivered in the correct order and without errors. If a packet is lost or corrupted, TCP will retransmit the packet until it is successfully received. There is also a rtt time that it dynamically increases and retransmits the packet if it does not receive an ACK within that time frame. TCP also has flow control and congestion control mechanisms to ensure that the sender does not overwhelm the receiver or the network.
