@@ -681,12 +681,12 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] trace DNS resolution conceptually
 
 ### Day 3  
-- [ ] HTTP request structure  
-- [ ] method  
-- [ ] target/path  
-- [ ] headers  
-- [ ] body  
-- [ ] response structure
+- [x] HTTP request structure  
+- [x] method  
+- [x] target/path  
+- [x] headers  
+- [x] body  
+- [x] response structure
 
 ### Day 4  
 - [ ] GET/POST/PUT/PATCH/DELETE/HEAD/OPTIONS  
