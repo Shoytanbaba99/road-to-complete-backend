@@ -7,7 +7,7 @@
 #include <time.h>
 #include <arpa/inet.h>
 #include <sys/socket.h>
-#include <bits/time.h>
+#include <time.h>
 
 #define PORT 9000
 #define CHUNK_SIZE 512

@@ -658,9 +658,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] TIME_WAIT concept
 
 ### Day 7  
-- [ ] Inspect sockets with `ss`  
-- [ ] Use `nc` to create a TCP conversation  
-- [ ] Document a packet’s journey from machine A to B
+- [x] Inspect sockets with `ss`  
+- [x] Use `nc` to create a TCP conversation  
+- [x] Document a packet’s journey from machine A to B
 
 **Deliverable:** TCP/IP mental model + terminal lab notes.
 

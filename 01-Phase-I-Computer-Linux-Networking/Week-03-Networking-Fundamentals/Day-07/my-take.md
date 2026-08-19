@@ -1,14 +1,3 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
 ## 🧠 Core Mental Model
 
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Application layer takes the data and gives it to the socket or the os's file descriptor. Its created by the kernel to let the application layer contact with the transport layer. The transport layer takes teh data and wraps it in with sequence number, source port, destination port, and checksum. The network layer takes teh segment and wraps it in a packet with source ip and destination ip. Now the if the netowrk address of the dest ip does not match with the source ip, then the packet is sent to the default gateway. The data link layer takes the packet and wraps it in a frame with source mac and destination mac, in this case the routers mac address. The physical layer takes the frame and translates it into electrical pulses down a wire or radio waves via wifi. The router receives the frame, rips off the mac header, looks at the destination ip, determines the next hop the isp, wraps it in a new mac header and sends it to the nextrouter.

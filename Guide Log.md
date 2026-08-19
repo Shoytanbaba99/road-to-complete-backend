@@ -23,7 +23,7 @@ Day 3: Today i learned NAT (SNAT/DNAT), 16-bit Ports demultiplexing, and BSD Soc
 Day 4: Today i learned UDP connectionless datagrams, SOCK_DGRAM sockets, and socket timeouts; and studied C Reliable UDP (RUDP) protocol mechanics (rudp_client.c & rudp_server.c).
 Day 5: Today i learned TCP 3-way handshake (SYN/SYN-ACK/ACK), byte sequence numbering, and dynamic RTT/RTO timers; and studied C raw TCP stealth SYN scanner mechanics (syn_scan.c).
 Day 6: Today i learned TCP flow control (rwnd), AIMD congestion control (cwnd), 4-way teardown, and TIME_WAIT state; and then built C socket buffer backpressure lab (server.c & client.c).
-Day 7: Today i learned   and then built .
+Day 7: Today i learned full-stack packet encapsulation/decapsulation across 4 layers and router hops; and synthesized end-to-end network mental model (my-take.md).
 
 ## Week 4
 Day 1: Today i learned   and then built .
