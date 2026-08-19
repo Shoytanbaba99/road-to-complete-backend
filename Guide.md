@@ -652,10 +652,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] retransmission
 
 ### Day 6  
-- [ ] TCP flow/congestion-control concepts  
-- [ ] keep-alive  
-- [ ] connection close  
-- [ ] TIME_WAIT concept
+- [x] TCP flow/congestion-control concepts  
+- [x] keep-alive  
+- [x] connection close  
+- [x] TIME_WAIT concept
 
 ### Day 7  
 - [ ] Inspect sockets with `ss`  
