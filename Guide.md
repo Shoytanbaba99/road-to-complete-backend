@@ -669,10 +669,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 4 — DNS + HTTP/1.1
 
 ### Day 1  
-- [ ] DNS purpose  
-- [ ] resolver  
-- [ ] recursive vs authoritative DNS  
-- [ ] A/AAAA/CNAME/TXT/NS/MX records
+- [x] DNS purpose  
+- [x] resolver  
+- [x] recursive vs authoritative DNS  
+- [x] A/AAAA/CNAME/TXT/NS/MX records
 
 ### Day 2  
 - [ ] Use `dig`  

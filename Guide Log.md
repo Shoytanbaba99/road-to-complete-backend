@@ -26,7 +26,7 @@ Day 6: Today i learned TCP flow control (rwnd), AIMD congestion control (cwnd), 
 Day 7: Today i learned full-stack packet encapsulation/decapsulation across 4 layers and router hops; and synthesized end-to-end network mental model (my-take.md).
 
 ## Week 4
-Day 1: Today i learned   and then built .
+Day 1: Today i learned DNS hierarchy (Root, TLD, Authoritative NS), recursive resolution, and record types (A, AAAA, CNAME, MX, TXT, NS); and synthesized DNS architecture (my-take.md).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
