@@ -695,10 +695,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] content negotiation
 
 ### Day 5  
-- [ ] 1xx/2xx/3xx/4xx/5xx semantics  
-- [ ] cookies  
-- [ ] caching headers  
-- [ ] ETag / conditional requests
+- [x] 1xx/2xx/3xx/4xx/5xx semantics  
+- [x] cookies  
+- [x] caching headers  
+- [x] ETag / conditional requests
 
 ### Day 6  
 - [ ] `curl -v`  
