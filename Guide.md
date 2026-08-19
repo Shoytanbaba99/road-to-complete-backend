@@ -689,10 +689,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] response structure
 
 ### Day 4  
-- [ ] GET/POST/PUT/PATCH/DELETE/HEAD/OPTIONS  
-- [ ] idempotency  
-- [ ] safe methods  
-- [ ] content negotiation
+- [x] GET/POST/PUT/PATCH/DELETE/HEAD/OPTIONS  
+- [x] idempotency  
+- [x] safe methods  
+- [x] content negotiation
 
 ### Day 5  
 - [ ] 1xx/2xx/3xx/4xx/5xx semantics  

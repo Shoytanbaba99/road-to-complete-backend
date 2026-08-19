@@ -29,7 +29,7 @@ Day 7: Today i learned full-stack packet encapsulation/decapsulation across 4 la
 Day 1: Today i learned DNS hierarchy (Root, TLD, Authoritative NS), recursive resolution, and record types (A, AAAA, CNAME, MX, TXT, NS); and synthesized DNS architecture (my-take.md).
 Day 2: Today i learned dig query syntax, TTL countdown mechanics, and 4-tier cascading DNS caching (Browser, OS, Recursor, Auth NS); and analyzed live dig terminal output (my-take.md).
 Day 3: Today i learned HTTP/1.1 wire protocol format, CRLF line delimiters (\r\n), and Content-Length stream framing; and then built raw socket HTTP/1.1 client (http_client.py).
-Day 4: Today i learned   and then built .
+Day 4: Today i learned HTTP method safety & idempotency, Content Negotiation q-values, and Vary caching headers; and studied REST & ConNeg server mechanics (rest_server.py).
 Day 5: Today i learned   and then built .
 Day 6: Today i learned   and then built .
 Day 7: Today i learned   and then built .
