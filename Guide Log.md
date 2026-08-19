@@ -27,7 +27,7 @@ Day 7: Today i learned full-stack packet encapsulation/decapsulation across 4 la
 
 ## Week 4
 Day 1: Today i learned DNS hierarchy (Root, TLD, Authoritative NS), recursive resolution, and record types (A, AAAA, CNAME, MX, TXT, NS); and synthesized DNS architecture (my-take.md).
-Day 2: Today i learned   and then built .
+Day 2: Today i learned dig query syntax, TTL countdown mechanics, and 4-tier cascading DNS caching (Browser, OS, Recursor, Auth NS); and analyzed live dig terminal output (my-take.md).
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .

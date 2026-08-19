@@ -675,10 +675,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] A/AAAA/CNAME/TXT/NS/MX records
 
 ### Day 2  
-- [ ] Use `dig`  
-- [ ] inspect TTLs  
-- [ ] DNS caching  
-- [ ] trace DNS resolution conceptually
+- [x] Use `dig`  
+- [x] inspect TTLs  
+- [x] DNS caching  
+- [x] trace DNS resolution conceptually
 
 ### Day 3  
 - [ ] HTTP request structure  
