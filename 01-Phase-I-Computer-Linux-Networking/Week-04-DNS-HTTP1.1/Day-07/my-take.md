@@ -1,14 +1,9 @@
-# My Take & Synthesis
+Firstly, it obtains the scheme or protocol from the URL, such as HTTP or HTTPS. It is then faced with the hostname. How does it know what that hostname means? It needs to resolve the hostname into an IP address. It may first check the browser's DNS cache and then the OS or local resolver cache. If there is nothing cached, the request is sent to a recursive DNS resolver. If the resolver does not already have the answer cached, it starts the DNS resolution process. It may query a root server, which directs it to the appropriate TLD server, such as the .com servers. The TLD server then directs it to the authoritative DNS server for that domain. The authoritative server provides the IP address, which eventually comes back to my machine.
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
+Now that we have the IP address, our program creates a socket as a client for sending and receiving data. It then uses the socket to connect to the server's IP address and destination port. For TCP, this begins the three-way handshake: SYN, SYN-ACK, and ACK. If we are using HTTPS, the TLS handshake happens after the TCP connection is established and before HTTP data is exchanged.
 
-## 🧠 Core Mental Model
+Once the connection is ready, the client sends an HTTP request. The request contains a request line with the HTTP method, target path, and HTTP version. For example, GET / HTTP/1.1. In HTTP/1.1, the Host header is required so the server knows which hostname the request is intended for, especially when multiple websites share the same IP address. Other headers can also be included depending on the request. If the request contains a body, headers such as Content-Length can tell the server how much body data to expect.
 
+The server processes the request and sends back an HTTP response containing a status code, headers, and possibly a response body. The response can contain caching information such as Cache-Control, Expires, and an ETag. The browser can store the response in its HTTP cache according to the caching rules. Later, when the same resource is requested, the browser can use the cached response instead of downloading it again. If the cached response has become stale but has an ETag, the browser can send a conditional request containing If-None-Match. If the resource has not changed, the server can respond with 304 Not Modified, allowing the browser to reuse its cached copy.
 
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+DNS caching is a separate process. The DNS resolver can cache the hostname-to-IP mapping according to its DNS TTL, while the browser maintains its own HTTP cache for web resources.

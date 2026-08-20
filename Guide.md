@@ -707,7 +707,7 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] compare HTTP/1.1 connection reuse
 
 ### Day 7  
-- [ ] Explain browser → DNS → TCP → HTTP completely  
+- [x] Explain browser → DNS → TCP → HTTP completely  
 - [ ] Build a tiny Bash HTTP client
 
 **Deliverable:** “One HTTP request from typing a URL to receiving bytes.”
