@@ -31,7 +31,7 @@ Day 2: Today i learned dig query syntax, TTL countdown mechanics, and 4-tier cas
 Day 3: Today i learned HTTP/1.1 wire protocol format, CRLF line delimiters (\r\n), and Content-Length stream framing; and then built raw socket HTTP/1.1 client (http_client.py).
 Day 4: Today i learned HTTP method safety & idempotency, Content Negotiation q-values, and Vary caching headers; and studied REST & ConNeg server mechanics (rest_server.py).
 Day 5: Today i learned HTTP status code classes, Set-Cookie security flags, and ETag conditional validation (If-None-Match ➔ 304, If-Match ➔ 412); and studied stateful server (state_server.py).
-Day 6: Today i learned   and then built .
+Day 6: Today i learned HTTP persistent connection reuse, curl -v verbose inspection, nc raw socket crafting, and tcpdump flag analysis; and analyzed persistent TCP streams (my-take.md).
 Day 7: Today i learned   and then built .
 
 ## Week 5

@@ -701,10 +701,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] ETag / conditional requests
 
 ### Day 6  
-- [ ] `curl -v`  
-- [ ] raw HTTP with `nc`  
-- [ ] capture traffic with `tcpdump`  
-- [ ] compare HTTP/1.1 connection reuse
+- [x] `curl -v`  
+- [x] raw HTTP with `nc`  
+- [x] capture traffic with `tcpdump`  
+- [x] compare HTTP/1.1 connection reuse
 
 ### Day 7  
 - [ ] Explain browser → DNS → TCP → HTTP completely  
