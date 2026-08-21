@@ -726,10 +726,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] key exchange concept
 
 ### Day 3  
-- [ ] TLS handshake concept  
-- [ ] certificates  
-- [ ] certificate chains  
-- [ ] hostname verification
+- [x] TLS handshake concept  
+- [x] certificates  
+- [x] certificate chains  
+- [x] hostname verification
 
 ### Day 4  
 - [ ] HTTPS with `curl -v`  

@@ -1,14 +1,3 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
 ## 🧠 Core Mental Model
 
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+every os, android contains the root CA certificates public keys. Any domain on the internet or server must obtain a certificate from a intermediate Ca that obtained the permission to give certificate from the root CA. When we connect to a web server, The server sends its certificate called leaf certificate and the intermediate CA certificate to the client. The client checks if the intermediate CA certificate is signed by a root CA certificate that it has in its store, and if the leaf certificate is signed by the intermediate CA. if both are true it has verified its identity and initiates diffle hellman key exchange to exchange symmetric keys. Oh, and of course the leaf certificate contains the hostname in the SAN field, so the client checks if the hostname matches the leaf certificate SAN field. If it does not match, it will throw an error.

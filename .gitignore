@@ -69,3 +69,5 @@ syn_scan
 *.tmp
 tmp/
 scratch/
+.vscode/settings.json
+.gitignore
