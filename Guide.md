@@ -721,9 +721,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] hashing vs encryption vs signing
 
 ### Day 2  
-- [ ] symmetric encryption  
-- [ ] asymmetric cryptography  
-- [ ] key exchange concept
+- [x] symmetric encryption  
+- [x] asymmetric cryptography  
+- [x] key exchange concept
 
 ### Day 3  
 - [ ] TLS handshake concept  
