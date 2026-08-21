@@ -35,7 +35,7 @@ Day 6: Today i learned HTTP persistent connection reuse, curl -v verbose inspect
 Day 7: Today i learned end-to-end packet traversal (URL ➔ DNS resolution ➔ TCP socket ➔ HTTP request/response ➔ ETag caching); and synthesized the entire request lifecycle (my-take.md).
 
 ## Week 5
-Day 1: Today i learned   and then built .
+Day 1: Today i learned cryptographic triad (Confidentiality, Integrity, Authenticity), Digital Signatures, and HMAC authentication; and ran Fernet/HMAC verification lab (enc.py).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

@@ -717,8 +717,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 5 — TLS, proxies and modern HTTP
 
 ### Day 1  
-- [ ] cryptographic goals: confidentiality/integrity/authenticity  
-- [ ] hashing vs encryption vs signing
+- [x] cryptographic goals: confidentiality/integrity/authenticity  
+- [x] hashing vs encryption vs signing
 
 ### Day 2  
 - [ ] symmetric encryption  
