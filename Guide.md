@@ -742,8 +742,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] forwarded headers
 
 ### Day 6  
-- [ ] HTTP/2 concepts: framing, streams, multiplexing, header compression  
-- [ ] HTTP/3/QUIC overview
+- [x] HTTP/2 concepts: framing, streams, multiplexing, header compression  
+- [x] HTTP/3/QUIC overview
 
 ### Day 7  
 - [ ] Explain HTTPS without handwaving  
