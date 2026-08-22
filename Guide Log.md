@@ -38,8 +38,8 @@ Day 7: Today i learned end-to-end packet traversal (URL ➔ DNS resolution ➔ T
 Day 1: Today i learned cryptographic triad (Confidentiality, Integrity, Authenticity), Digital Signatures, and HMAC authentication; and ran Fernet/HMAC verification lab (enc.py).
 Day 2: Today i learned symmetric vs asymmetric trade-offs, hybrid TLS encryption architecture, and Diffie-Hellman (ECDHE) key exchange; and studied hybrid encryption concepts (my-take.md).
 Day 3: Today i learned PKI certificate chains (Leaf ➔ Intermediate CA ➔ OS Root CA) and SAN hostname verification; and tested Python TLS socket server (tls_server.py).
-Day 4: Today i learned   and then built .
-Day 5: Today i learned   and then built .
+Day 4: Today i learned HTTPS verbose inspection (-v), insecure testing (-k), custom CA bundles (--cacert), and SNI DNS override (--resolve); and synthesized curl debugging flags (my-take.md).
+Day 5: Today i learned Forward vs Reverse Proxy boundaries, Load Balancers, TLS Termination offloading, and X-Forwarded-* headers; and synthesized cluster architecture (my-take.md).
 Day 6: Today i learned   and then built .
 Day 7: Today i learned   and then built .
 

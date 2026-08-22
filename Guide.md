@@ -732,14 +732,14 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] hostname verification
 
 ### Day 4  
-- [ ] HTTPS with `curl -v`  
-- [ ] inspect certificates with OpenSSL tools
+- [x] HTTPS with `curl -v`  
+- [x] inspect certificates with OpenSSL tools
 
 ### Day 5  
-- [ ] Forward proxy vs reverse proxy  
-- [ ] load balancer concept  
-- [ ] TLS termination  
-- [ ] forwarded headers
+- [x] Forward proxy vs reverse proxy  
+- [x] load balancer concept  
+- [x] TLS termination  
+- [x] forwarded headers
 
 ### Day 6  
 - [ ] HTTP/2 concepts: framing, streams, multiplexing, header compression  
