@@ -746,10 +746,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] HTTP/3/QUIC overview
 
 ### Day 7  
-- [ ] Explain HTTPS without handwaving  
-- [ ] Sketch browser → CDN/proxy → server flow
+- [x] Explain HTTPS without handwaving  
+- [x] Sketch browser → CDN/proxy → server flow
 
-**Deliverable:** TLS + reverse-proxy note.
+**Deliverable:** [x] TLS + reverse-proxy note.
 
 ---
 

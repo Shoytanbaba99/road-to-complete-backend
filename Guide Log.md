@@ -41,7 +41,7 @@ Day 3: Today i learned PKI certificate chains (Leaf ➔ Intermediate CA ➔ OS R
 Day 4: Today i learned HTTPS verbose inspection (-v), insecure testing (-k), custom CA bundles (--cacert), and SNI DNS override (--resolve); and synthesized curl debugging flags (my-take.md).
 Day 5: Today i learned Forward vs Reverse Proxy boundaries, Load Balancers, TLS Termination offloading, and X-Forwarded-* headers; and synthesized cluster architecture (my-take.md).
 Day 6: Today i learned HTTP/2 binary framing, HPACK header compression, stream multiplexing, and HTTP/3 QUIC UDP architecture; and synthesized protocol evolution (my-take.md).
-Day 7: Today i learned   and then built .
+Day 7: Today i learned Edge CDN handshake, proxy identity header injection (X-Forwarded-*), and Layer 4 vs Layer 7 boundaries; and synthesized end-to-end HTTPS pipeline (my-take.md).
 
 ## Week 6
 Day 1: Today i learned   and then built .
