@@ -768,10 +768,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] recovery exercises
 
 ### Day 3  
-- [ ] debugger concepts  
-- [ ] breakpoints  
-- [ ] stack traces  
-- [ ] watch expressions
+- [x] debugger concepts  
+- [x] breakpoints  
+- [x] stack traces  
+- [x] watch expressions
 
 ### Day 4  
 - [ ] profiling concept  

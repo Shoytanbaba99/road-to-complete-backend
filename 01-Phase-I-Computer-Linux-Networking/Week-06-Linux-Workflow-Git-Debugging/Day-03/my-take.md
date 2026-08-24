@@ -1,14 +1,5 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
 ## 🧠 Core Mental Model
 
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+So, the way debugging works is that you have a program that is running, and you want to inspect its state. You can use a debugger to attach to the running process, or you can start the program within the debugger. Breakpoints work something like, whereever you set the breakpoint, the debugger will chaneg the opcode to a special instruction and save the existing instruction to a hashmap and then hand over to the program. program, runs until it hits the breakpoint, then the debugger awakes, swaps the opcode with the original one, moves one frame back and runs the execution of the instruction, After finishing, it swaps the complete processes frame back into and leaves.
+We also got dwarf table, which is a table that contains the mapping of the source code to the binary code.
+And a stack finder, which is a tool that can be used to find the functions that were called to reach the current point in the program. It works something like how the linked list works, where each function call is a node in the list, and the next pointer points to the previous function call.
