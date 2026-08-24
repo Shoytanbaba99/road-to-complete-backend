@@ -47,7 +47,7 @@ Day 7: Today i learned Edge CDN handshake, proxy identity header injection (X-Fo
 Day 1: Today i learned Git object model (blobs, trees, commits, refs), zlib storage, and 3-way merge vs rebase mechanics; and synthesized Git internals (my-take.md).
 Day 2: Today i learned git reflog HEAD movement tracking and git bisect binary search debugging; and summarized core notes (my-take.md).
 Day 3: Today i learned debugger mechanics (INT 3/0xCC trap swapping, DWARF symbol tables, stack frame unwinding); and studied debugger concepts (my-take.md).
-Day 4: Today i learned   and then built .
+Day 4: Today i learned CPU vs Memory vs I/O performance bottlenecks and memory latency hierarchy; and ran parallel download benchmark (my-take.md).
 Day 5: Today i learned   and then built .
 Day 6: Today i learned   and then built .
 Day 7: Today i learned   and then built .

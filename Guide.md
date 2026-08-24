@@ -774,9 +774,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] watch expressions
 
 ### Day 4  
-- [ ] profiling concept  
-- [ ] CPU vs memory vs I/O bottlenecks  
-- [ ] benchmark mindset
+- [x] profiling concept  
+- [x] CPU vs memory vs I/O bottlenecks  
+- [x] benchmark mindset
 
 ### Day 5  
 - [ ] MIT Missing Semester shell/tooling/debugging material  
