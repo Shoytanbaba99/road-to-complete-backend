@@ -762,10 +762,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] rebase concept
 
 ### Day 2  
-- [ ] useful Git workflows  
-- [ ] bisect  
-- [ ] reflog  
-- [ ] recovery exercises
+- [x] useful Git workflows  
+- [x] bisect  
+- [x] reflog  
+- [x] recovery exercises
 
 ### Day 3  
 - [ ] debugger concepts  
