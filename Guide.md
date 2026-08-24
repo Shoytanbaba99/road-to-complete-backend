@@ -756,10 +756,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 6 — Linux workflow, Git, debugging, profiling
 
 ### Day 1  
-- [ ] Git objects: commits/trees/blobs/refs  
-- [ ] branches  
-- [ ] merge  
-- [ ] rebase concept
+- [x] Git objects: commits/trees/blobs/refs  
+- [x] branches  
+- [x] merge  
+- [x] rebase concept
 
 ### Day 2  
 - [ ] useful Git workflows  

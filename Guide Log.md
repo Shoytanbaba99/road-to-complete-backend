@@ -44,7 +44,7 @@ Day 6: Today i learned HTTP/2 binary framing, HPACK header compression, stream m
 Day 7: Today i learned Edge CDN handshake, proxy identity header injection (X-Forwarded-*), and Layer 4 vs Layer 7 boundaries; and synthesized end-to-end HTTPS pipeline (my-take.md).
 
 ## Week 6
-Day 1: Today i learned   and then built .
+Day 1: Today i learned Git object model (blobs, trees, commits, refs), zlib storage, and 3-way merge vs rebase mechanics; and synthesized Git internals (my-take.md).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
