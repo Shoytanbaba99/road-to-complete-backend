@@ -783,9 +783,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] reproduce a debugging workflow end-to-end
 
 ### Day 6  
-- [ ] shell aliases/functions  
-- [ ] tmux  
-- [ ] terminal productivity
+- [x] shell aliases/functions  
+- [x] tmux  
+- [x] terminal productivity
 
 ### Day 7  
 - [ ] Phase I exam: explain the entire machine/network stack  

@@ -49,7 +49,7 @@ Day 2: Today i learned git reflog HEAD movement tracking and git bisect binary s
 Day 3: Today i learned debugger mechanics (INT 3/0xCC trap swapping, DWARF symbol tables, stack frame unwinding); and studied debugger concepts (my-take.md).
 Day 4: Today i learned CPU vs Memory vs I/O performance bottlenecks and memory latency hierarchy; and ran parallel download benchmark (my-take.md).
 Day 5: Today i learned stderr stream redirection (FD 2), strace system call inspection, and text wrangling pipelines (grep, sed, awk, sort, uniq); and ran log analyzer script (log_analyzer.sh).
-Day 6: Today i learned   and then built .
+Day 6: Today i learned shell aliases vs custom shell functions and tmux session persistence; and studied productivity suite script (my-take.md).
 Day 7: Today i learned   and then built .
 
 ## Week 7
