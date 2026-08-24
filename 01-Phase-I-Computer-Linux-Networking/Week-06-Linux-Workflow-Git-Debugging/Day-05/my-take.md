@@ -1,14 +1,3 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
 ## 🧠 Core Mental Model
 
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Mostly a Revision with new tools ig, So you can direct program to output to stderr a built in file descriptor, to find an error from among a lot of output. You can use strace to identify what caused the program to crash if it doesnt get the chance to process or compile or run the binary. and then you have, grep, sed, uniq, awk, and sort to filter.

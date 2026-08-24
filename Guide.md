@@ -779,8 +779,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] benchmark mindset
 
 ### Day 5  
-- [ ] MIT Missing Semester shell/tooling/debugging material  
-- [ ] reproduce a debugging workflow end-to-end
+- [x] MIT Missing Semester shell/tooling/debugging material  
+- [x] reproduce a debugging workflow end-to-end
 
 ### Day 6  
 - [ ] shell aliases/functions  
