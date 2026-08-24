@@ -788,8 +788,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] terminal productivity
 
 ### Day 7  
-- [ ] Phase I exam: explain the entire machine/network stack  
-- [ ] No notes for the first attempt
+- [x] Phase I exam: explain the entire machine/network stack  
+- [x] No notes for the first attempt
 
 **Gate:** Do not move on until you can explain the complete request path and use Linux tools to investigate it.
 
