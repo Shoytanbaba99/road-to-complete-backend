@@ -803,10 +803,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 7 — Go fundamentals
 
 ### Day 1  
-- [ ] install Go  
-- [ ] `go env`  
-- [ ] modules  
-- [ ] `go run/build/test/fmt/vet`
+- [x] install Go  
+- [x] `go env`  
+- [x] modules  
+- [x] `go run/build/test/fmt/vet`
 
 ### Day 2  
 - [ ] variables/constants  

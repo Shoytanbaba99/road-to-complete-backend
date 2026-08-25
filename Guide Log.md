@@ -53,7 +53,7 @@ Day 6: Today i learned shell aliases vs custom shell functions and tmux session 
 Day 7: Today i defended Phase I Capstone (DNS resolution, L2/L3 gateway routing, edge TLS 1.3/QUIC termination, NIC DMA, socket 4-tuple demux, virtual memory MMU, CPU cache state mutation); and completed Phase I (my-take.md).
 
 ## Week 7
-Day 1: Today i learned   and then built .
+Day 1: Today i learned Go module initialization (go.mod), workspace environment variables (go env), and core toolchain commands (go run, build, test, fmt, vet); and initialized baseline lab (my-take.md).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
