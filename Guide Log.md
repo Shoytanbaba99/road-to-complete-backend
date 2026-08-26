@@ -54,7 +54,7 @@ Day 7: Today i defended Phase I Capstone (DNS resolution, L2/L3 gateway routing,
 
 ## Week 7
 Day 1: Today i learned Go module initialization (go.mod), workspace environment variables (go env), and core toolchain commands (go run, build, test, fmt, vet); and initialized baseline lab (my-take.md).
-Day 2: Today i learned   and then built .
+Day 2: Today i learned Go variables, zero values, short declarations (:=), and defer stack execution; and built transaction engine (my-take.md).
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .

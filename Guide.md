@@ -809,10 +809,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] `go run/build/test/fmt/vet`
 
 ### Day 2  
-- [ ] variables/constants  
-- [ ] functions  
-- [ ] control flow  
-- [ ] defer
+- [x] variables/constants  
+- [x] functions  
+- [x] control flow  
+- [x] defer
 
 ### Day 3  
 - [ ] arrays  

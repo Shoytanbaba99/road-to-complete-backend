@@ -1,14 +1,1 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+So you have the defer in go which puts the function into stack and lets every other funciton call and return before calling that explicit function. := works only inside function, every other varialbe is initially declared with the null or 0 value. And yeah some basic syntaxes of GO. defer
