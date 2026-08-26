@@ -815,10 +815,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] defer
 
 ### Day 3  
-- [ ] arrays  
-- [ ] slices  
-- [ ] maps  
-- [ ] strings/runes/bytes
+- [x] arrays  
+- [x] slices  
+- [x] maps  
+- [x] strings/runes/bytes
 
 ### Day 4  
 - [ ] structs  
