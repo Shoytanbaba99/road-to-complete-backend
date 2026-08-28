@@ -821,10 +821,10 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] strings/runes/bytes
 
 ### Day 4  
-- [ ] structs  
-- [ ] methods  
-- [ ] pointers  
-- [ ] zero values
+- [x] structs  
+- [x] methods  
+- [x] pointers  
+- [x] zero values
 
 ### Day 5  
 - [ ] interfaces  
