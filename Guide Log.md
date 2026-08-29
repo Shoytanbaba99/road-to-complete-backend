@@ -57,7 +57,7 @@ Day 1: Today i learned Go module initialization (go.mod), workspace environment 
 Day 2: Today i learned Go variables, zero values, short declarations (:=), and defer stack execution; and built transaction engine (my-take.md).
 Day 3: Today i learned fixed arrays vs dynamic slice headers (len/cap), hash maps (make initialization rules), and strings vs Unicode runes (int32); and built text analyzer (simple_text.go).
 Day 4: Today i learned struct field zero-values, pointer semantics (*T, &x, no ptr++), and value vs pointer receivers; and built packet verifier (go_day4_lab).
-Day 5: Today i learned   and then built .
+Day 5: Today i learned Go implicit interfaces, package export boundaries (Capitalization), and struct embedding; and built worker engine & metrics pipeline (go_day5_lab).
 Day 6: Today i learned   and then built .
 Day 7: Today i learned   and then built .
 

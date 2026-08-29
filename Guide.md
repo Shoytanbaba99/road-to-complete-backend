@@ -827,9 +827,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] zero values
 
 ### Day 5  
-- [ ] interfaces  
-- [ ] composition  
-- [ ] package boundaries
+- [x] interfaces  
+- [x] composition  
+- [x] package boundaries
 
 ### Day 6  
 - [ ] errors  
