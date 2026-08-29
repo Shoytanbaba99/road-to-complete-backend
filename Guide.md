@@ -832,9 +832,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] package boundaries
 
 ### Day 6  
-- [ ] errors  
-- [ ] wrapping  
-- [ ] sentinel/custom errors
+- [x] errors  
+- [x] wrapping  
+- [x] sentinel/custom errors
 
 ### Day 7  
 - [ ] build a CLI task tracker  
