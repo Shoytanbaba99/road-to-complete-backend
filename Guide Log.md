@@ -59,7 +59,7 @@ Day 3: Today i learned fixed arrays vs dynamic slice headers (len/cap), hash map
 Day 4: Today i learned struct field zero-values, pointer semantics (*T, &x, no ptr++), and value vs pointer receivers; and built packet verifier (go_day4_lab).
 Day 5: Today i learned Go implicit interfaces, package export boundaries (Capitalization), and struct embedding; and built worker engine & metrics pipeline (go_day5_lab).
 Day 6: Today i learned errors as values (error interface), sentinel errors, custom error structs, %w wrapping, errors.Is/As, and errors.Join (Go 1.20+); and built auth error handler (go_day6).
-Day 7: Today i learned   and then built .
+Day 7: Today i learned CLI argument parsing (os.Args), in-memory task storage (map[int]*Task), and sort.Slice sorting; and built CLI task tracker capstone (go_lab7).
 
 ## Week 8
 Day 1: Today i learned   and then built .

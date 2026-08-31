@@ -837,8 +837,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] sentinel/custom errors
 
 ### Day 7  
-- [ ] build a CLI task tracker  
-- [ ] AI-off implementation first
+- [x] build a CLI task tracker  
+- [x] AI-off implementation first
 
 ---
 
