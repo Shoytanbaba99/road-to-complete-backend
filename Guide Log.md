@@ -62,7 +62,7 @@ Day 6: Today i learned errors as values (error interface), sentinel errors, cust
 Day 7: Today i learned CLI argument parsing (os.Args), in-memory task storage (map[int]*Task), and sort.Slice sorting; and built CLI task tracker capstone (go_lab7).
 
 ## Week 8
-Day 1: Today i learned   and then built .
+Day 1: Today i learned io.Reader and io.Writer stream contracts, file descriptors, and system call reduction via bufio RAM buffers; and built file-persistent REPL task manager (go_day1).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

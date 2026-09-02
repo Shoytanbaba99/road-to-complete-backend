@@ -1,14 +1,11 @@
-# My Take & Synthesis
+Learned that instead of enum you use
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
+type TaskStatus string
+const {
+Pending TaskStatus = "Pending"
+Completed TaskStatus = "Completed"
+}
 
-## 🧠 Core Mental Model
+something liek this, so creating a TaskStatus type and then creating constants for the different statuses.
 
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+and You also have sort.Slice which is a function that takes a slice and a function and sorts the slice based on the function you provide.

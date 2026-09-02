@@ -845,9 +845,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 ## Week 8 — Go I/O and standard library
 
 ### Day 1  
-- [ ] files  
-- [ ] `io`  
-- [ ] buffered I/O
+- [x] files  
+- [x] `io`  
+- [x] buffered I/O
 
 ### Day 2  
 - [ ] JSON encode/decode  

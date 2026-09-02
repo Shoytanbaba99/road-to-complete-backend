@@ -1,14 +1,3 @@
-# My Take & Synthesis
+So, Go has the Reader interface and the Writer interface, which are used for reading and writing data, respectively. Reader interface has a single method Read (p []byte) (n int, err error), which reads up to len(p) bytes into p. Writer interface has a single method Write (p []byte) (n int, err error), which writes len(p) bytes from p to the underlying data stream.
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+using os.file opens the file and returns a file descriptor, as they directly access, syscalls multiple times, we use a buffered reader and writer to reduce the number of syscalls. The bufio package provides buffered I/O, which wraps around the Reader and Writer interfaces to provide buffering. They are saved into the Ram and then flushed into the disk or sent over the network in larger chunks, reducing the number of syscalls and improving performance.
