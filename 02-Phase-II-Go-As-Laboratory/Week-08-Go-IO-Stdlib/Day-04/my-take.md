@@ -1,14 +1,5 @@
-# My Take & Synthesis
+Alright, Go has Interface named Context, which is designed to solve the problem of deadlines and cancellation.
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
+we create a context.Background() at the top level, and then we can create a context.WithTimeout() or context.WithCancel() to establish a deadline or cancellation signal. We can cancel context.WithTimeout() early and manually cancel context.WithCancel() when we want to signal an abort condition.
 
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Also, we can use the ctx.Done() and ctx.Err() channels to see if the context has been canceled or the deadline has been exceeded.
