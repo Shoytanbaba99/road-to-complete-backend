@@ -850,9 +850,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] buffered I/O
 
 ### Day 2  
-- [ ] JSON encode/decode  
-- [ ] struct tags  
-- [ ] validation boundaries
+- [x] JSON encode/decode  
+- [x] struct tags  
+- [x] validation boundaries
 
 ### Day 3  
 - [ ] CLI flags  
