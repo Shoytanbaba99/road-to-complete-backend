@@ -64,7 +64,7 @@ Day 7: Today i learned CLI argument parsing (os.Args), in-memory task storage (m
 ## Week 8
 Day 1: Today i learned io.Reader and io.Writer stream contracts, file descriptors, and system call reduction via bufio RAM buffers; and built file-persistent REPL task manager (go_day1).
 Day 2: Today i learned JSON stream encoders/decoders (json.NewDecoder), struct tags (json:"..."), and domain validation boundaries; and built JSON persistent store task tracker (go_day8).
-Day 3: Today i learned   and then built .
+Day 3: Today i learned os.Getenv environment variables, flag package CLI flags, and 3-tier config precedence (Flags > Env > Defaults); and built configurable task manager (go_day9).
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .
 Day 6: Today i learned   and then built .

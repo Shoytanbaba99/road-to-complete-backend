@@ -855,8 +855,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 - [x] validation boundaries
 
 ### Day 3  
-- [ ] CLI flags  
-- [ ] environment configuration
+- [x] CLI flags  
+- [x] environment configuration
 
 ### Day 4  
 - [ ] `context.Context`  
