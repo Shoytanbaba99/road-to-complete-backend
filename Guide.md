@@ -925,8 +925,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 5
 
-- [ ] testing package
-- [ ] table-driven tests
+- [x] testing package
+- [x] table-driven tests
 
 ### Day 6
 

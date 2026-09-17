@@ -259,6 +259,7 @@ func main() {
 			fmt.Println("Error saving tasks:", err)
 		}
 	}()
+
 	scanner := bufio.NewScanner(os.Stdin)
 
 	fmt.Println("Welcome to the Task Manager!")
