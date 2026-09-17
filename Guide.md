@@ -930,8 +930,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 6
 
-- [ ] benchmarks
-- [ ] fuzzing
+- [x] benchmarks
+- [x] fuzzing
 
 ### Day 7
 

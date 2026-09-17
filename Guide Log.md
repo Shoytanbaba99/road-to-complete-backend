@@ -67,7 +67,7 @@ Day 2: Today i learned JSON stream encoders/decoders (json.NewDecoder), struct t
 Day 3: Today i learned os.Getenv environment variables, flag package CLI flags, and 3-tier config precedence (Flags > Env > Defaults); and built configurable task manager (go_day9).
 Day 4: Today i learned context.Context root/derived trees, WithTimeout/WithCancel, and ctx.Err/Done signals; and built context-aware export lab (go_day4).
 Day 5: Today i learned testing package conventions (*testing.T, _test.go) and table-driven test patterns (t.Run); and built tested slugify package (go_lab).
-Day 6: Today i learned   and then built .
+Day 6: Today i learned micro-benchmarks (*testing.B, b.Loop(), -benchmem) and coverage-guided native fuzzing (*testing.F); and benchmarked/fuzzed slugify package (go_lab).
 Day 7: Today i learned   and then built .
 
 ## Week 9
