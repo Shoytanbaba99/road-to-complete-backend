@@ -935,7 +935,7 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 7
 
-- [ ] build a CLI log analyzer or file indexer
+- [x] build a CLI log analyzer or file indexer
 
 **Deliverable:** tested Go CLI tool.
 
