@@ -72,7 +72,7 @@ Day 7: Today i learned end-to-end stdlib integration (io/bufio, context timeouts
 
 ## Week 9
 Day 1: Today i learned TCP socket lifecycle, net.Listen kernel queue initialization, and accept loops; and built TCP echo & banner server (go lab).
-Day 2: Today i learned   and then built .
+Day 2: Today i learned TCP stream framing, packet coalescing, and delimiter tokenization with bufio.Scanner; and built text command protocol server (go lab).
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .
 Day 5: Today i learned   and then built .

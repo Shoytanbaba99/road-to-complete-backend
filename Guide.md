@@ -951,9 +951,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 2
 
-- [ ] read/write bytes
-- [ ] framing problem
-- [ ] newline-delimited protocol
+- [x] read/write bytes
+- [x] framing problem
+- [x] newline-delimited protocol
 
 ### Day 3
 
