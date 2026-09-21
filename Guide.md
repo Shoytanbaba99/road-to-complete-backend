@@ -957,8 +957,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 3
 
-- [ ] concurrent client handling
-- [ ] goroutines
+- [x] concurrent client handling
+- [x] goroutines
 
 ### Day 4
 
