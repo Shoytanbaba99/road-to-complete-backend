@@ -71,7 +71,7 @@ Day 6: Today i learned micro-benchmarks (*testing.B, b.Loop(), -benchmem) and co
 Day 7: Today i learned end-to-end stdlib integration (io/bufio, context timeouts, json encoder, flags, benchmarks, fuzzing); and built CLI log analyzer capstone (logscan).
 
 ## Week 9
-Day 1: Today i learned   and then built .
+Day 1: Today i learned TCP socket lifecycle, net.Listen kernel queue initialization, and accept loops; and built TCP echo & banner server (go lab).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

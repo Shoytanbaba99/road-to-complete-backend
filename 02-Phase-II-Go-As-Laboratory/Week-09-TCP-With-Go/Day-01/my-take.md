@@ -1,14 +1,4 @@
-# My Take & Synthesis
+Generally. the way nic and kernel communicates is, we create a socket, bind the ip aand prot address to the socket, make it start listening, and accepting and after accpeting it automatically creates a new socket for the connection. The kernel then uses the nic to send and receive data through the socket.
 
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+in Go you have, net.listen() which creates a socket and binds teh ip and port and starts listening.
+Then you have net.accept() which accepts the connection and creates a new socket for the connection returning a net.Conn object which you can use to send and receive data.

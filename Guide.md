@@ -945,9 +945,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 1
 
-- [ ] `net.Listen`
-- [ ] sockets
-- [ ] accept loop
+- [x] `net.Listen`
+- [x] sockets
+- [x] accept loop
 
 ### Day 2
 
