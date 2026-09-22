@@ -962,8 +962,8 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 4
 
-- [ ] timeouts
-- [ ] connection shutdown
+- [x] timeouts
+- [x] connection shutdown
 
 ### Day 5
 

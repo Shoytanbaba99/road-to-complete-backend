@@ -1,14 +1,1 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+Deadline, each connect might not close by itself so we need to close by ourself. and our connections could infinitely wait for the client to send data, so we need to set a deadline for each connection. If the client doesn't send data within the deadline, we can close the connection. conn.SetDeadline(time.Now().Add(5 \* time.Second)) , we got ReadDeadline and WriteDeadline, we can set them separately. ReadDeadline is for reading data from the connection, and WriteDeadline is for writing data to the connection.
