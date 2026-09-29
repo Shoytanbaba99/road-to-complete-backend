@@ -967,7 +967,7 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 5
 
-- [ ] build an echo server
+- [x] build an echo server
 
 ### Day 6
 
