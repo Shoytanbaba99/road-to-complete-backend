@@ -1,0 +1,1 @@
+Remember the previous things i learned again, deadline, bufio scanner, socket for connecting and how it allocates to other socket for handling the connection etc. fun little small project. tcp dump allows me to see the establishment of connection between the server and terminals. quite amazing./re

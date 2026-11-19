@@ -76,8 +76,8 @@ Day 2: Today i learned TCP stream framing, packet coalescing, and delimiter toke
 Day 3: Today i learned goroutine concurrency, M:N GMP runtime scheduling, and non-blocking accept loops; and built concurrent TCP echo server (go lab).
 Day 4: Today i learned socket deadlines (SetReadDeadline), idle timeouts, net.Error inspection, and CloseWrite half-close; and built timeout-protected server (go lab).
 Day 5: Today i learned scoped write deadlines, buffer capping with scanner.Buffer, and bufio.ErrTooLong; and built production echo server (go lab).
-Day 6: Today i learned   and then built .
-Day 7: Today i learned   and then built .
+Day 6: Today i learned custom stateful text-based protocols (ADD/TAKE/CHECK/QUIT command parsing with bufio); and built inventory tracking protocol server (go lab).
+Day 7: Today i learned connection packet inspection (tcpdump/ss), buffer overflow breakages, and socket lifecycle transitions; and inspected TCP handshakes & client breakdowns (go lab).
 
 ## Week 10
 Day 1: Today i learned   and then built .

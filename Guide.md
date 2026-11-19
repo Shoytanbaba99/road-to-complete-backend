@@ -971,12 +971,12 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 6
 
-- [ ] build a tiny custom text protocol
+- [x] build a tiny custom text protocol
 
 ### Day 7
 
-- [ ] intentionally break clients
-- [ ] inspect with `ss`/tcpdump
+- [x] intentionally break clients
+- [x] inspect with `ss`/tcpdump
 
 **Deliverable:** TCP server + protocol documentation.
 
