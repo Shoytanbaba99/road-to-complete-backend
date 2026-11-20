@@ -1,14 +1,1 @@
-# My Take & Synthesis
-
-> **Goal:** Write down your own mental model, key insights, and personal understanding after studying the day raw materials.
-
-## 🧠 Core Mental Model
-
-
-## 💡 Key Takeaways
-
-
-## 🔬 Practical Lab Findings
-
-
-## ❓ Remaining Questions / Areas to Explore
+So, in our previous week, we had to manually parse teh requests and write a response and had to deal with bunch of formattng issues. Moreover actions were what we had to manually handle. In this week, we will be using a library called `http` which will help us in parsing the requests and writing the responses. For this day, it accepts a request witha pointer and writes a respones with no poinetr as its an interface. we create endpoints like /about, /contact, /home etc. and write the response for each endpoint with a function. The function takes a response writer and a request as its parameters. The response writer is used to write the response back to the client. While, the request is used to read the request from the client.

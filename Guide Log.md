@@ -80,7 +80,7 @@ Day 6: Today i learned custom stateful text-based protocols (ADD/TAKE/CHECK/QUIT
 Day 7: Today i learned connection packet inspection (tcpdump/ss), buffer overflow breakages, and socket lifecycle transitions; and inspected TCP handshakes & client breakdowns (go lab).
 
 ## Week 10
-Day 1: Today i learned   and then built .
+Day 1: Today i learned net/http primitives, http.HandlerFunc callback dispatch, and interface vs struct pointer semantics (http.ResponseWriter vs *http.Request); and built basic HTTP routing server (learning-materials).
 Day 2: Today i learned   and then built .
 Day 3: Today i learned   and then built .
 Day 4: Today i learned   and then built .

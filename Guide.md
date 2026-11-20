@@ -986,9 +986,9 @@ The week numbers are not prison bars. If a topic takes another week, move the ca
 
 ### Day 1
 
-- [ ] `net/http`
-- [ ] `http.Server`
-- [ ] handlers
+- [x] `net/http`
+- [x] `http.Server`
+- [x] handlers
 
 ### Day 2
 
